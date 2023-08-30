@@ -1,2 +1,2 @@
 # Q_Learning_Research
-Scientific Initiations Research on Q Learning and evolutionary game theory (ongoing)
+Scientific Initiations Research on Q Learning and evolutionary game theory 
